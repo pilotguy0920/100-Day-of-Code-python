@@ -5,3 +5,5 @@ I decided I want to learn python.  I am going through Dr Anglea Yu's 100 Day of 
 ## Day 1 - Project
 Create a band name generator using input from the user for City which they grew up in and pet name.
 
+## Day 2 - Project
+Create a tip calculator
